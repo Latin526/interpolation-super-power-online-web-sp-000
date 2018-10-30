@@ -2,5 +2,5 @@
 
 
 def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  puts colors 
+  puts colors #{display_rainbow}
 end
